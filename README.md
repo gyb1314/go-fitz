@@ -1,7 +1,7 @@
 ## go-fitz
-[![Build Status](https://github.com/gen2brain/go-fitz/actions/workflows/test.yml/badge.svg)](https://github.com/gen2brain/go-fitz/actions)
-[![GoDoc](https://godoc.org/github.com/gen2brain/go-fitz?status.svg)](https://godoc.org/github.com/gen2brain/go-fitz)
-[![Go Report Card](https://goreportcard.com/badge/github.com/gen2brain/go-fitz?branch=master)](https://goreportcard.com/report/github.com/gen2brain/go-fitz)
+[![Build Status](https://github.com/gyb1314/go-fitz/actions/workflows/test.yml/badge.svg)](https://github.com/gyb1314/go-fitz/actions)
+[![GoDoc](https://godoc.org/github.com/gyb1314/go-fitz?status.svg)](https://godoc.org/github.com/gyb1314/go-fitz)
+[![Go Report Card](https://goreportcard.com/badge/github.com/gyb1314/go-fitz?branch=master)](https://goreportcard.com/report/github.com/gyb1314/go-fitz)
 
 Go wrapper for [MuPDF](http://mupdf.com/) fitz library that can extract pages from PDF, EPUB and MOBI documents as images, text, html or svg.
 
@@ -22,7 +22,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/gen2brain/go-fitz"
+	"github.com/gyb1314/go-fitz"
 )
 
 func main() {
